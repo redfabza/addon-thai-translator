@@ -1,1 +1,0 @@
-# addon-thai-translator
